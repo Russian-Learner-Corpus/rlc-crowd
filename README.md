@@ -15,6 +15,6 @@ The file `rlc-toloka.csv` contains corrections for 34303 sentences. Every senten
 ## Citation
 If you want to use the data, please cite the following publication introducing the Russian Learner Corpus:
 
-Ekaterina Rakhilina, Anastasia Vyrenkova, Elmira Mustakimova, Alina Ladygina, and Ivan Smirnov. 2016. Building a learner corpus for Russian. In *Proceedings of the Joint Workshop on NLP for Computer Assisted Language Learning and NLP for Language Acquisition,* SLTC, Umeå, 16th November 2016.
+Ekaterina Rakhilina, Anastasia Vyrenkova, Elmira Mustakimova, Alina Ladygina, and Ivan Smirnov. Building a learner corpus for Russian. In *Proceedings of the Joint Workshop on NLP for Computer Assisted Language Learning and NLP for Language Acquisition,* SLTC, Umeå, 16th November 2016.
 
 [https://aclanthology.org/W16-6509/](https://aclanthology.org/W16-6509/)
