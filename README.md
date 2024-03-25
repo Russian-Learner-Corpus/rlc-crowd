@@ -1,4 +1,4 @@
-# RLC-Toloka dataset
+# RLC-Crowd dataset
 
 Sentences from the [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC) corrected by users of the [Toloka](https://toloka.ai) crowdsourcing platform
 
