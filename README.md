@@ -23,4 +23,4 @@ The file `rlc-toloka-test-counts.csv` contains 33 sentences offered to a large n
 - **count:** The number of users who proposed this correction.
 
 ## Reference
-Daniil Kosakin, Sergei Obiedkov, Ivan Smirnov, Ekaterina Rakhilina, Anastasia Vyrenkova, and Ekaterina Zalivina. 2024. [Russian Learner Corpus: Towards Error-Cause Annotation for L2 Russian](https://aclanthology.org/2024.lrec-main.1241). In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 14240–14258, Torino, Italia. ELRA and ICCL.
+Daniil Kosakin, Sergei Obiedkov, Ivan Smirnov, Ekaterina Rakhilina, Anastasia Vyrenkova, and Ekaterina Zalivina. 2024. [Russian Learner Corpus: Towards Error-Cause Annotation for L2 Russian](https://aclanthology.org/2024.lrec-main.1241). In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)_, pages 14240–14258, Torino, Italia. ELRA and ICCL.
