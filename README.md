@@ -4,7 +4,7 @@ Sentences from the [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC) co
 
 The dataset was created as part of a project supported by the [Faculty of Computer Science](https://cs.hse.ru/en/), [HSE University](https://www.hse.ru/en/). We thank Georgii Kolesnikov for his help in creating the dataset.
 
-The file `rlc-toloka.csv` contains corrections for 34150 sentences. Every sentence was corrected by several of 4866 users. Each of the 213683 lines of the dataset corresponds to a correction of a single sentence by a single user.
+The file `rlc-toloka.csv` contains corrections for 34150 sentences. Every sentence was corrected by several of 4866 users. Each of the 213682 lines of the dataset corresponds to a correction of a single sentence by a single user.
 
 The file `rlc-toloka-test-counts.csv` contains 33 sentences offered to a large number of users; users who repeatedly failed to produce expected corrections for such sentences were disqualified from performing further tasks. For each correction, the number of users who suggested this correction is indicated.
 
